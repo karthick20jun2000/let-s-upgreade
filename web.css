@@ -1,0 +1,25 @@
+nav {
+    color: aliceblue;
+    text-align: center;
+    background-image: url("./css-background-image-size-fit-full-screen.jpg");
+}
+
+a {
+    color: aliceblue;
+    padding: 20px;
+}
+
+form {
+    float: right;
+    padding-right: 25rem;
+    margin-top: -370px;
+}
+
+body {
+    background-image: url("https://th.bing.com/th/id/R.b2c2bd3e5e071f6fc26eb361d7f087a3?rik=ItRlSceJ4wRrYQ&riu=http%3a%2f%2fcdn.wallpapersafari.com%2f52%2f36%2fCiQ9qR.jpg&ehk=DdsM9YzpAht5uBYpqQCNyOkglHCcg8QCmSM0Hb9kEN0%3d&risl=&pid=ImgRaw&r=0");
+}
+
+.leftside {
+    padding-top: 25px;
+    padding-left: 40px;
+}
